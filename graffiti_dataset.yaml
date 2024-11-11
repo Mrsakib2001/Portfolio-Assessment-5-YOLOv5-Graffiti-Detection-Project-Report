@@ -1,0 +1,5 @@
+train: C:/Users/61449/PycharmProjects/YOLOv5_Graffiti_Detection/yolov5/data/train/images
+val: C:/Users/61449/PycharmProjects/YOLOv5_Graffiti_Detection/yolov5/data/test/images
+
+nc: 1
+names: ['graffiti']
